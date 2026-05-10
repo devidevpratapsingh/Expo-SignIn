@@ -4,12 +4,11 @@ A modern mobile authentication UI built using React Native and Expo.
 
 ## Screenshot
 
-![App Screenshot](./assets/images/signinLightmode.jpeg)
-![App Screenshot](./assets/images/signinLightmodefull.jpeg)
+<img src="./assets/images/signinLightmode.jpeg" width="250" />
+<img src="./assets/images/signinLightmodefull.jpeg" width="250" />
 
-![App Screenshot](./assets/images/signinDarkmode.jpeg)
-![App Screenshot](./assets/images/signindarkmodefull.jpeg)
-
+<img src="./assets/images/signinDarkmode.jpeg" width="250" />
+<img src="./assets/images/signindarkmodefull.jpeg" width="250" />
 ## Run Project
 
 ```bash
